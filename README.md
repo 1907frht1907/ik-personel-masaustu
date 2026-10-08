@@ -1,11 +1,8 @@
-# İK Personel Yönetim — masaüstü paketi
+# İK Personel — masaüstü
 
-Ücretli yayın gerekmez.
+**[IK-Personel-Masaustu.zip indir](https://github.com/1907frht1907/ik-personel-masaustu/releases/latest/download/IK-Personel-Masaustu.zip)**
 
-## Zip’i indir
-
-**[IK-Personel-Masaustu.zip](https://github.com/1907frht1907/ik-personel-masaustu/releases/latest/download/IK-Personel-Masaustu.zip)**
-
-1. Zip’i açın.
-2. `Masaustune-Kur.bat` dosyasına çift tıklayın.
-3. İsterseniz sağ tık → Gönder → Masaüstü (kısayol).
+1. Eski masaüstü kısayolunu silin.
+2. Zip’i bir klasöre çıkarın.
+3. `Masaustune-Kur.bat` dosyasına çift tıklayın.
+4. Masaüstüne **IK Personel** kısayolu yazılır; ona çift tıklayın.

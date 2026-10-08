@@ -1,17 +1,10 @@
-İK Personel Yönetim — çevrimdışı masaüstü
+IK Personel Yonetim - masaustu
 
-Yayın veya ödeme gerekmez.
+1. Eski masaustu kisayolunu silin. O kisayol bos Edge aciyordu.
+2. Bu zip'i bir klasore cikarin. Klasoru bolmeyin.
+3. Masaustune-Kur.bat dosyasina cift tiklayin.
+   Uygulama kendi penceresinde acilir (sekme yok).
+   Masaustune "IK Personel" kisayolu, ikonuyla birlikte yazilir.
+4. Bundan sonra masaustundeki IK Personel ikonuna cift tiklayin.
 
-1. Zip'i açın. Klasörü silmeyin (html ve bat birlikte durmalı).
-   Örnek: Belgelerim\IK-Personel-Masaustu
-
-2. Masaustune-Kur.bat dosyasına çift tıklayın.
-   Edge veya Chrome, sekmeler olmadan kendi penceresinde açılır.
-
-3. Kısayol: Masaustune-Kur.bat'a sağ tıklayın →
-   Gönder → Masaüstü (kısayol oluştur).
-
-Notlar
-- İnternet gerekmez. Personel, izin, puantaj bu bilgisayarda saklanır.
-- Excel içe aktarma çalışır.
-- İlk açılışta Windows uyarısı çıkarsa: Diğer bilgiler → Yine de çalıştır.
+Not: Internet gerekmez. Personel listesi durur; izin, puantaj ve mesai bos baslar.
