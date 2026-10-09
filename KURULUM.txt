@@ -1,10 +1,8 @@
 IK Personel Yonetim - masaustu
 
-1. Eski masaustu kisayolunu silin. O kisayol bos Edge aciyordu.
+1. Eski masaustu kisayolunu silin. Takili kaldiysa Gorev Yoneticisi'nden eski powershell penceresini kapatin.
 2. Bu zip'i bir klasore cikarin. Klasoru bolmeyin.
-3. Masaustune-Kur.bat dosyasina cift tiklayin.
-   Uygulama kendi penceresinde acilir (sekme yok).
-   Masaustune "IK Personel" kisayolu, ikonuyla birlikte yazilir.
-4. Bundan sonra masaustundeki IK Personel ikonuna cift tiklayin.
+3. Masaustune-Kur.bat dosyasina cift tiklayin. Pencere hemen acilir, arkada beklemez.
+4. Masaustune "IK Personel" ikonu yazilir. Sonra ona cift tiklayin.
 
 Not: Internet gerekmez. Personel listesi durur; izin, puantaj ve mesai bos baslar.
